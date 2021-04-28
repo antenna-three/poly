@@ -1,0 +1,7 @@
+/.vs/
+/App/AS_DEBUG/
+/App/example/
+/App/nlp/
+/App/*debug*
+/Intermediate
+/*.vcxproj.user
